@@ -118,7 +118,6 @@
                         </td>
 
                     </tr>
-
                 <?php endwhile; ?>
             </section>
         </table>
