@@ -82,7 +82,7 @@
             </div>
         </div>
         <a href="#sec-2">
-            <div class="scroll-down">
+            <div class="">
         </a>
     </div>
     <br>
