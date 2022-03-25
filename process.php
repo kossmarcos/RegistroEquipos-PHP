@@ -1,5 +1,4 @@
 <?php
-
 session_start();
 
 $mysqli = new mysqli("localhost", "root", "root", "stseisua") or die(mysqli_error($mysqli));
